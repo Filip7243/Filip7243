@@ -12,6 +12,6 @@
 ---
 
 ## 🛠️ Tech Stack
-📧 Email: filip7243@gmail.com
-👋 [LinkedIn: Filip Kaczmarczyk] (https://www.linkedin.com/in/filip7243/)
+📧 Email: filip7243@gmail.com \n
+👋 [LinkedIn: Filip Kaczmarczyk](https://www.linkedin.com/in/filip7243/)
 
