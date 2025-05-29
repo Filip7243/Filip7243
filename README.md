@@ -13,5 +13,5 @@
 
 ## 🛠️ Tech Stack
 📧 Email: filip7243@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filip%20Kaczmarczyk-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filip7243/)
+👋 [LinkedIn: Filip Kaczmarczyk] (https://www.linkedin.com/in/filip7243/)
 
