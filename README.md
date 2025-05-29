@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip Kaczmarczyk</h1>
-<h3 align="center">IT Student from Poland</h3>
-
-- 🌱 I’m currently learning **Rust**
+<h3 align="center">IT Master's Student from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
